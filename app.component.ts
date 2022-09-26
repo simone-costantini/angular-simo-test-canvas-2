@@ -55,6 +55,7 @@ export class AppComponent {
     lineStyle: { width: 0 },
     majorTickLines: { width: 0 },
     minorTickLines: { width: 0 },
+    /*
     stripLines: [
       {
         start: 30,
@@ -70,7 +71,7 @@ export class AppComponent {
         color: "red",
         visible: true
       }
-    ]
+    ] */
   };
   public annotations: Object = [
     {
